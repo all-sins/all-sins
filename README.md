@@ -12,5 +12,3 @@
 
 - 📫 How to reach me:
             arturs.alsins@tutanota.com
-
-![ExCode](https://user-images.githubusercontent.com/62400484/177532433-27e2305d-e7f7-499e-a79b-a86237fc0a70.png)
