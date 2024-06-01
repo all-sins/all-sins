@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @all-sins and I like computers!
 
-- 👀 I’m interested in all things tech! From writing PowerShell scripts to Java classes, from creating servers to developing bots and tools such as the one's seen in my repos such as:
+- 👀 I’m interested in all things tech! From writing PowerShell scripts to Java classes, from creating servers to developing bots and tools such as the one's seen in my repos:
             https://github.com/all-sins/ExampleCode - A collection of all kinds of scripts, classes and code from all kinds of languages I've worked with.
             https://github.com/all-sins/getSomeRest - A hackable Java Spring Boot REST application that's designed to be compromised.
             https://github.com/all-sins/jNetGraph - A Java Spring Boot application that passively measures your internet connection with DB and API functionality.
