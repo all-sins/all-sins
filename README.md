@@ -8,7 +8,5 @@
 
 - 🌱 I’m currently learning Azure DevOps, Java, Maven, Gradle, ANT, YAML.
 
-- 💞️ I am not currently looking to colaborate. For now... :)
-
 - 📫 How to reach me:
             arturs.alsins@tutanota.com
